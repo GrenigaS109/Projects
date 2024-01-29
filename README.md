@@ -1,0 +1,1 @@
+Method of error back propagation. The purpose of these methods is to determine the errors of the neurons in the current layer, based on the errors inthe next layer. If the error is calculated on the last layer,this depends on the actual network output and the desired output. nabla_b and nabla_w represent two accumulator variables for errors from layer of neurons.
